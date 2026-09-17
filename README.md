@@ -42,3 +42,4 @@ cd app
 docker build -t gitops-demo:local .
 docker run -p 8000:8000 gitops-demo:local
 ```
+# gitops-demo
